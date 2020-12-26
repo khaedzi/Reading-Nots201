@@ -1,4 +1,4 @@
-# Introductory HTML and JavaScript
+# Introductory HTML , css and JavaScript
 ## What is HTML :
 HTML stands for Hyper Text Markup Language.
 HTML is the standard markup language for creating Web pages.
@@ -29,8 +29,11 @@ Tags act like containers. They tell you something about the information that lie
 * < figure> and < figcaption> - The < figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
 The < figcaption> tag defines a caption for a < figure> element. The < figcaption> element can be placed as the first or as the last child of a < figure> element.
 
+# CSS
+We start this section with a chapter that explains how CSS uses rules to enable you to control the styling and layout of web pages. We then go on to look at the wide variety of CSS properties you can use in your CSS rules. These properties generally fall into one of two categories:
 
-What is JavaScript :
+
+# What is JavaScript :
 JavaScript is the world’s most popular programming language.
 
 JavaScript is the programming language of the Web.

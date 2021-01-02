@@ -1,4 +1,10 @@
 # Reading-Nots Code 201
+Code 201 Reading Notes
+Hello people!
+This is khaled ziadeh
+Here are my updets and I hope you find them useful
+
+
 
 | No   | link     | 
 | ---------- | ------------- |

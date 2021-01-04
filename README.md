@@ -14,6 +14,7 @@ Here are my updets and I hope you find them useful
 |thierd lucture|[class-04](https://khaedzi.github.io/Reading-Nots201/class-04)|
 |fourth lucture|[class-05](https://khaedzi.github.io/Reading-Nots201/class-05)|
 |fiefth lucture |[class-06](https://khaedzi.github.io/Reading-Nots201/class-06)|
+|sixth lucture|[class-07](https://khaedzi.github.io/Reading-Nots201/class-07)|
 
 
     

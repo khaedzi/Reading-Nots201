@@ -19,4 +19,6 @@ Here are my updets and I hope you find them useful
 |eight lucture|[class-09](https://github.com/khaedzi/Reading-Nots201/blob/main/class-09)|
 |nine lucture|[class-10](https://github.com/khaedzi/Reading-Nots201/blob/main/class-10)|
 |lucture ten|[class-11](https://github.com/khaedzi/Reading-Nots201/blob/main/class-11)|
+|lucture eleven|[class-12](https://github.com/khaedzi/Reading-Nots201/blob/main/class-12)|
+|lucture twelve|[class-13](https://github.com/khaedzi/Reading-Nots201/blob/main/class-13)|
     

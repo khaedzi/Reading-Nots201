@@ -1,5 +1,5 @@
 
-what google learned from its quest to build the perfect team
+
  
  
  # Work groups
